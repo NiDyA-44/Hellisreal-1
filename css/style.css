@@ -1,0 +1,129 @@
+body {
+	background-image: url("../images/background.jpg") ;
+    background-color: firebricks;
+    border-color: gray;
+
+}
+
+#font1 {
+	color: white;
+	border: solid;
+	border-color: #b24f4f;
+	background: #b24f4f;
+	width: 50%;
+	padding:5px ;
+	margin: 1%;
+}
+#home{
+	width: 20%;
+	height: 20%;
+	float: left;
+
+}
+#option {
+	width: 20%;
+	height: 20%;
+	float: left;
+}
+#side-image{ 
+	float:right;
+	width: 30%;
+	height: 30%;
+	border: solid;
+	border-color: red;
+	background-color: black;
+  margin: 5%;
+}
+
+#up-page {
+	width: 2%;
+	float: right;
+	border: solid;
+	border-color: gold;
+	margin: 2%;
+}
+
+#navbar {
+	background-color: darkred;
+	position: sticky;
+	top: 0;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	border-color: gray;
+	border: solid;
+}
+
+#navbar a {
+	float: left;
+	color: red;
+	height: 100%;
+	padding: 14px 16px;
+	text-decoration: none;
+	text-align: center;
+}
+#funnyguy {
+	width: 20%;
+	height: 20%;
+	float: right;
+}
+
+a {
+	width: 10%;
+}
+#about-us{
+	width: 30%;
+	height: 30%;
+}
+
+#Us{
+color: white;
+	border: solid;
+	border-color: #b24f4f;
+	background: #b24f4f;
+	width: 20%;
+  margin: 2;
+}
+#CEO{
+	width: 50%;
+	height: 50%;
+	background-color: red;
+	border: solid;
+}
+#bribery {
+	width: 50%;
+	height: 40%;
+}
+#staff {
+	width: 25%;
+	height: 25%;
+}
+#service-text {
+  color: white;
+	background: url("../images/FIRE.JPEG");
+	width: 20%;
+	text-align: center;
+	margin: 1%;
+}
+#bribes-set{
+	background-color: red;
+	width:40%;
+	height: 50%;
+	color: white;
+	padding: 50px;
+	float: 50%;
+	margin: 5%;
+}
+#sponsor{
+	width: 40%;
+	height: 50%;
+	float: none;
+}
+#our-ceo{
+	background-color: red;
+	color: white;
+	float: right;
+	width: 40%;
+	padding: 80px;
+	margin: 2%;
+}
